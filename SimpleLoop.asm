@@ -1,3 +1,7 @@
+# @file: SimpleLoop.asm
+# @author: Keegan Goecke
+# @date: 2018-06-01
+# @brief: Simple loop using MIPS assembly language
 .text
 .globl main
 main:
